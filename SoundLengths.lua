@@ -1,4 +1,4 @@
-QuestReaderSoundLengths_Pack_Legion = {
+SpeakStoneSoundLengths_Pack_Legion = {
     ["10166_completion.ogg"] = 19.42,
     ["10166_description.ogg"] = 14.62,
     ["10166_progress.ogg"] = 3.06,

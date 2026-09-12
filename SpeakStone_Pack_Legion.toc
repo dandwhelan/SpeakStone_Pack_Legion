@@ -1,11 +1,11 @@
 ## Interface: 110207, 120000, 120001, 120100
 ## X-Interface: 110207, 120000, 120001, 120100
 ## Title: SpeakStone Narration - Legion Voices
-## Notes: Legion quest audio for SpeakStone Narration. Requires QuestReaderAddon.
+## Notes: Legion quest audio for SpeakStone Narration. Requires SpeakStone_Main.
 ## Author: clhammer weirdautomation@gmail.com, Paratus
 ## Version: 1.3
 
-## RequiredDeps: QuestReaderAddon
+## RequiredDeps: SpeakStone_Main
 
 SoundLengths.lua
 Register.lua

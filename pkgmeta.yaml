@@ -1,0 +1,13 @@
+package-as: SpeakStone_Pack_Legion
+enable-nolib-creation: no
+
+# Audio-only pack addon -- see SpeakStone_Main's pkgmeta.yaml for why the
+# split exists. This directory is already the clean build output
+# (build_sound_packs.py), so there is nothing here to ignore.
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
+
+tools-used:
+  - curseforge-packager
