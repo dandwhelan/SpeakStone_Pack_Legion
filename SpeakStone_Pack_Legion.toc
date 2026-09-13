@@ -3,7 +3,7 @@
 ## Title: SpeakStone Narration - Legion Voices
 ## Notes: Legion quest audio for SpeakStone Narration. Requires SpeakStone_Main.
 ## Author: Nerf, SpeakStone@beanw.co.uk
-## Version: 1.4.2
+## Version: 1.4.3
 
 ## RequiredDeps: SpeakStone_Main
 
