@@ -4,7 +4,7 @@
 ## Notes: Legion quest audio for SpeakStone Narration. Requires SpeakStone_Main.
 ## Author: Nerf, SpeakStone@beanw.co.uk
 ## X-Wago-ID: 96ELn2Ng
-## Version: 1.4.2
+## Version: 1.4.3
 
 ## RequiredDeps: SpeakStone_Main
 
