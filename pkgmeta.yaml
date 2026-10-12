@@ -1,0 +1,11 @@
+package-as: SpeakStone_Pack_Legion
+enable-nolib-creation: no
+
+ignore:
+  - README.md
+  - .github
+  - .git
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
