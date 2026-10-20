@@ -4564,6 +4564,7 @@ SpeakStoneSoundLengths_Pack_Legion = {
     ["43015_progress.ogg"] = 9.53,
     ["43054_completion.ogg"] = 9.60,
     ["43054_description.ogg"] = 20.88,
+    ["43056_completion.ogg"] = 5.44,
     ["43062_completion.ogg"] = 6.64,
     ["43062_description.ogg"] = 21.28,
     ["43062_progress.ogg"] = 4.40,
