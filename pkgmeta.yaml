@@ -1,5 +1,0 @@
-package-as: SpeakStone_Pack_Legion
-
-manual-changelog:
-  filename: CHANGELOG.md
-  markup-type: markdown
