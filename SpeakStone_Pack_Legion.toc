@@ -10,4 +10,5 @@
 ## RequiredDeps: SpeakStone_Main
 
 SoundLengths.lua
+SentenceTimings.lua
 Register.lua
