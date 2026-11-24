@@ -10,4 +10,5 @@
 
 SoundLengths.lua
 SentenceTimings.lua
+ClipChunks.lua
 Register.lua
